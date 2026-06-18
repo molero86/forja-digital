@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/forja_digital.egg-info/PKG-INFO
+src/forja_digital.egg-info/SOURCES.txt
+src/forja_digital.egg-info/dependency_links.txt
+src/forja_digital.egg-info/requires.txt
+src/forja_digital.egg-info/top_level.txt
+src/forja_digital_ingest/__init__.py
+src/forja_digital_ingest/cli.py
+src/forja_digital_ingest/frontmatter.py
+src/forja_digital_ingest/ingest.py
+tests/test_ingest.py
